@@ -6,7 +6,7 @@ module.exports = {
       summary: `who lives and works in San Francisco building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://devilking6105.github.io/NeuVision-Gatsby-Template/`,
     social: {
       twitter: `kylemathews`,
     },
