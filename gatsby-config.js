@@ -90,7 +90,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-react-helmet-canonical-urls`,
       options: {
-        siteUrl: `https://www.your-website.com`,
+        siteUrl: `https://devilking6105.github.io/NeuVision-Gatsby-Template/`,
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
