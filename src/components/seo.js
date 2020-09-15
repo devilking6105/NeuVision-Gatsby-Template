@@ -40,7 +40,7 @@ const SEO = ({ description, lang, meta, title, pathName }) => {
       link={[
         {
           rel: "amphtml",
-          href: `https://www.your-website.com/amp/${pathName}`,
+          href: `https://devilking6105.github.io/NeuVision-Gatsby-Template/amp/${pathName}`,
         },
       ]}
       meta={[
